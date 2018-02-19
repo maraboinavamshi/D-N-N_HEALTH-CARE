@@ -27,7 +27,7 @@
  
  # More Links
  
- [DeepHeart: Semi-Supervised Deep Learning for Cardiovascular Risk Prediction](https://cardiogr.am/research/(DeepHeart: Semi-Supervised Deep Learning for Cardiovascular Risk Prediction)
+ [DeepHeart: Semi-Supervised Deep Learning for Cardiovascular Risk Prediction](https://cardiogr.am/research/)
  
 # Installing
 
