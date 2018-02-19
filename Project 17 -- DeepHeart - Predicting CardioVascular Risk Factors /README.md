@@ -25,6 +25,10 @@
  frequency domain. A combination of the above fourier coefficients are 
  fed into the convolutional neural network.
  
+ # More Links
+ 
+ [DeepHeart: Semi-Supervised Deep Learning for Cardiovascular Risk Prediction](https://cardiogr.am/research/(DeepHeart: Semi-Supervised Deep Learning for Cardiovascular Risk Prediction)
+ 
 # Installing
 
 To run, set up a virtual environment (ensure python2.7, virtualenv, and 
